@@ -1,0 +1,32 @@
+Kết quả:
+1. Nguyễn Trường Giang: 7 điểm
+KQ đạt được: xử lý được 4/5 hàm
+KQ chưa đạt được: thiếu hàm sắp xếp
+2. Đinh Bá Hải:
+KQ đạt được: 
+có kiểm tra input đầu vào
+KQ chưa đạt được: chưa nạp được từ file lên
+3. Thanh Ngân: 7.5 điểm
+KQ đạt được: làm hết các hàm
+KQ chưa đạt được: dùng file nhưng chưa work.
+tên hàm cần viết thường chữ đầu.
+4. Vũ Hồng Phúc: 6 điểm
+KQ đạt được: full các hàm
+KQ chưa đạt được: demo chưa chạy được 
+5. Phan Tiến Mạnh: 6.5 điểm
+KQ đạt được: 
+QK chưa đạt được: menu chưa work
+demo chạy chưa đúng
+menu chỉ chạy 1 lần
+6. Nguyễn Bá Quân: 5.5 điểm
+KQ đạt được: 
+KQ chưa đạt được: thiếu tìm kiếm, sắp xếp.
+
+------------
+
+Các bạn chưa nộp bài:
+1. Nguyễn Đức Thiện Quảng
+2. Nguyễn Văn Cường
+3. Hoàng Văn Minh
+
+
