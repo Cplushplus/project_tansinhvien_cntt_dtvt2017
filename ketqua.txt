@@ -2,7 +2,7 @@ Kết quả:
 1. Nguyễn Trường Giang: 7 điểm
 KQ đạt được: xử lý được 4/5 hàm
 KQ chưa đạt được: thiếu hàm sắp xếp
-2. Đinh Bá Hải:
+2. Đinh Bá Hải: 9 điểm 
 KQ đạt được: 
 có kiểm tra input đầu vào
 KQ chưa đạt được: chưa nạp được từ file lên
@@ -25,7 +25,7 @@ KQ chưa đạt được: thiếu tìm kiếm, sắp xếp.
 ------------
 
 Các bạn chưa nộp bài:
-1. Nguyễn Đức Thiện Quảng
+1. Nguyễn Đức Thiện Quang
 2. Nguyễn Văn Cường
 3. Hoàng Văn Minh
 
